@@ -1,0 +1,129 @@
+
+[
+  {
+    "zh": "AI口语教练",
+    "tc": "AI口語教練",
+    "us": "AI Speaking Coach"
+  },
+  {
+    "zh": "运作流程",
+    "tc": "運作流程",
+    "us": "Operation Process"
+  },
+  {
+    "zh": "产品优势",
+    "tc": "產品優勢",
+    "us": "Product Advantages"
+  },
+  {
+    "zh": "用户体验",
+    "tc": "用戶體驗",
+    "us": "User Experience"
+  },
+  {
+    "zh": "快速提升英语口语能力",
+    "tc": "快速提升英語口語能力",
+    "us": "Rapidly Improve English Speaking Skills"
+  },
+  {
+    "zh": "AI外教陪练",
+    "tc": "AI外教陪練",
+    "us": "AI Foreign Teacher Practice"
+  },
+  {
+    "zh": "TalkEZly是一款集数字人教练、AI笔记和自动化生成课程，为一体的全方位学习工具，为您提供灵活、高效、个性化的学习体验， 无论您是学生、职场新人还是喜欢出国旅行的生活家，有TalkEZly为伴，您都将成为自信、流利的口语大师！",
+    "tc": "TalkEZly是一款集數字人教練、AI筆記和自動化生成課程，為一體的全方位學習工具，為您提供靈活、高效、個性化的學習體驗， 無論您是學生、職場新人還是喜歡出國旅行的生活家，有TalkEZly為伴，您都將成為自信、流利的口語大師！",
+    "us": "TalkEZly is an all-in-one learning tool that combines digital human coaches, AI notes, and automated course generation to offer you a flexible, efficient, and personalized learning experience. Whether you're a student, a newcomer in the workplace, or someone who enjoys traveling abroad, with TalkEZly by your side, you will become a confident and fluent speaker!"
+  },
+  {
+    "zh": "AI外教 口语陪练",
+    "tc": "AI外教 口語陪練",
+    "us": "AI Speaking Coach"
+  },
+  {
+    "zh": "纠正口音问题",
+    "tc": "糾正口音問題",
+    "us": "Correct Pronunciation Issues"
+  },
+  {
+    "zh": "创建专属身份",
+    "tc": "創建專屬身份",
+    "us": "Create Exclusive Identity"
+  },
+  {
+    "zh": "通过强大的编辑系统，快速创建专属资料身份，TalkEZly将智能分配您的专属AI口语外教。",
+    "tc": "通過強大的編輯系統，快速創建專屬資料身份，TalkEZly將智能分配您的專屬AI口語外教。",
+    "us": "With a powerful editing system that allows you to quickly create an exclusive profile identity, TalkEZlyly will intelligently assign your own AI speaking coach."
+  },
+  {
+    "zh": "训练口语",
+    "tc": "訓練口語",
+    "us": "Train Speaking Skill"
+  },
+  {
+    "zh": "拥有丰富的语言知识和临场口语能力，能够提供个性化、针对性的练习。",
+    "tc": "擁有豐富的語言知識和臨場口語能力，能夠提供個性化、針對性的練習。",
+    "us": "Extensive knowledge of the language and improvising skills to be able to provide personalized, targeted practice service."
+  },
+  {
+    "zh": "AI笔记",
+    "tc": "AI筆記",
+    "us": "AI Notes"
+  },
+  {
+    "zh": "将自动提取重点内容并整理成简洁易懂的笔记。您可以随时回顾这些笔记，加深记忆和理解，让学习变得更加轻松。",
+    "tc": "將自動提取重點內容並整理成簡潔易懂的筆記。您可以隨時回顧這些筆記，加深記憶和理解，讓學習變得更加輕鬆。",
+    "us": "Will automatically extract key content and organize it into concise and easy-to-understand notes. You can review these notes at any time to deepen your memory and understanding, making learning  experience more enjoyable."
+  },
+  {
+    "zh": "注册去试试",
+    "tc": "註冊去試試",
+    "us": "Register Now"
+  },
+  {
+    "zh": "简单、高效",
+    "tc": "簡單、高效",
+    "us": "Simple, Efficient"
+  },
+  {
+    "zh": "为学习语言赋能加速",
+    "tc": "為學習語言賦能加速",
+    "us": "Empower and Accelerate Language Learning"
+  },
+  {
+    "zh": "丰富性",
+    "tc": "豐富性",
+    "us": "Richness"
+  },
+  {
+    "zh": "丰富的语言知识，丰富的课程主题，丰富的练习场景",
+    "tc": "豐富的語言知識，豐富的課程主題，豐富的練習場景",
+    "us": "Rich language knowledge, diverse course themes, and varied practice scenarios"
+  },
+  {
+    "zh": "针对性",
+    "tc": "針對性",
+    "us": "Targeted"
+  },
+  {
+    "zh": "个性化的学习计划，个性化的课程功能，个性化的口语练习",
+    "tc": "個性化的學習計劃，個性化的課程功能，個性化的口語練習",
+    "us": "Personalized learning plans, personalized course features, personalized speaking exercises"
+  },
+  {
+    "zh": "实时性",
+    "tc": "實時性",
+    "us": "Real-Time"
+  },
+  {
+    "zh": "随时随地口语练习，及时记录重点内容，实时进行反馈建议",
+    "tc": "隨時隨地口語練習，及時記錄重點內容，實時進行反饋建議",
+    "us": "Practice speaking anytime, anywhere, record key content in real time, and provide real-time feedback and suggestions."
+  },
+  {
+    "zh": "立即免费使用",
+    "tc": "立即免費使用",
+    "us": "Use Now for Free"
+  }
+]
+
